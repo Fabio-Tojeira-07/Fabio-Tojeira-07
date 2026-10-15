@@ -11,13 +11,15 @@ Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia
 • 💻 A desenvolver os meus primeiros projetos e a explorar novas tecnologias. <br>
 • 📈 Focado em evoluir todos os dias e em transformar lógica em código. <br>
 
-### 🚀 Tecnologias em Aprendizagem
+<div align="center">
 
 ### 🚀 Tecnologias em Aprendizagem
 
 ![HTML5](https://badgen.net)
 ![SQL](https://badgen.net)
 ![C](https://badgen.net)
+
+</div>
 
 <br>
 
