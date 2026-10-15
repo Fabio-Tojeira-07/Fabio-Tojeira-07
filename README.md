@@ -11,15 +11,17 @@ Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia
 • 💻 A desenvolver os meus primeiros projetos e a explorar novas tecnologias. <br>
 • 📈 Focado em evoluir todos os dias e em transformar lógica em código. <br>
 
-<div align="center">
-
 ### 🚀 Tecnologias em Aprendizagem
 
-![HTML5](https://badgen.net)
-![SQL](https://badgen.net)
-![C](https://badgen.net)
+[![HTML5](https://shields.io)](https://mozilla.org) <br>[![SQL](https://shields.io)](https://mysql.com) <br> [![C](https://shields.io)](https://microsoft.com)
 
-</div>
+<br>
+
+Sinta-se à vontade para explorar os meus repositórios e acompanhar a minha evolução!
+
+<br>
+
+[![As Minhas Estatísticas do GitHub](https://vercel.app)](https://github.com)
 
 <br>
 
