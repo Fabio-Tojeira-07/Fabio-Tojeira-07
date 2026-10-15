@@ -13,10 +13,9 @@ Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia
 
 <h3>🚀 Tecnologias em Aprendizagem</h3> <br>
 <div>
-  <img src="https://jsdelivr.net" alt="HTML5" width="50" height="50" style="margin-right: 15px;" />
-  <img src="https://jsdelivr.net" alt="CSS3" width="50" height="50" style="margin-right: 15px;" />
-  <img src="https://jsdelivr.net" alt="SQL" width="50" height="50" style="margin-right: 15px;" />
-  <img src="https://jsdelivr.net" alt="C" width="50" height="50" />
+  <img src="HTML.png" alt="HTML5" width="50" height="50" style="margin-right: 15px;" />
+  <img src="SQL.png" alt="SQL" width="50" height="50" style="margin-right: 15px;" />
+  <img src="Linguagem C" alt="C" width="50" height="50" />
 </div>
 
 Sinta-te à vontade para explorar os meus repositórios e acompanhar a minha evolução!
