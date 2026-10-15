@@ -19,3 +19,5 @@ Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia
 </div>
 
 Sinta-te à vontade para explorar os meus repositórios e acompanhar a minha evolução!
+
+![As Minhas Estatísticas do GitHub](https://vercel.app)
