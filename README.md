@@ -13,9 +13,9 @@ Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia
 
 ### 🚀 Tecnologias em Aprendizagem
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![SQL](https://shields.io)
+![HTML5](https://shields.io) <br>
+![CSS3](https://shields.io) <br>
+![SQL](https://shields.io) <br>
 ![C](https://shields.io)
 
 Sinta-te à vontade para explorar os meus repositórios e acompanhar a minha evolução!
