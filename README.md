@@ -11,11 +11,12 @@ Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia
 • 💻 A desenvolver os meus primeiros projetos e a explorar novas tecnologias.
 • 📈 Focado em evoluir todos os dias e em transformar lógica em código.
 
-### 🚀 Tecnologias em Aprendizagem
-
-![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png) <br>
-![CSS3]([https://shields.io](https://w7.pngwing.com/pngs/390/794/png-transparent-css3-original-wordmark-logo-icon.png)) <br>
-![SQL]([https://shields.io](https://tse3.mm.bing.net/th/id/OIP.hhMY1oJYR1NbImy4CWA6pAHaDn?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)) <br>
-![C]([https://shields.io](https://tse2.mm.bing.net/th/id/OIP.qZMIMShj-fclHYOaH1OBFAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3))
+<h3>🚀 Tecnologias em Aprendizagem</h3>
+<div>
+  <img src="https://jsdelivr.net" alt="HTML5" width="50" height="50" style="margin-right: 15px;" />
+  <img src="https://jsdelivr.net" alt="CSS3" width="50" height="50" style="margin-right: 15px;" />
+  <img src="https://jsdelivr.net" alt="SQL" width="50" height="50" style="margin-right: 15px;" />
+  <img src="https://jsdelivr.net" alt="C" width="50" height="50" />
+</div>
 
 Sinta-te à vontade para explorar os meus repositórios e acompanhar a minha evolução!
