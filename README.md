@@ -14,9 +14,10 @@ Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia
 ### 🚀 Tecnologias em Aprendizagem
 
 <div style="display: flex; gap: 15px;">
-  <img src="https://jsdelivr.net" alt="HTML5" width="50" height="50" />
-  <img src="https://jsdelivr.net" alt="SQL" width="50" height="50" />
-  <img src="https://jsdelivr.net" alt="C" width="50" height="50" />
+
+![HTML5](https://shields.io)
+![SQL](https://shields.io)
+![C](https://shields.io)
 </div>
 
 <br>
