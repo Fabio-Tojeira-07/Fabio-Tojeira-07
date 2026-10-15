@@ -15,9 +15,9 @@ Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia
 
 ### 🚀 Tecnologias em Aprendizagem
 
-![HTML5](https://shields.io)
-![SQL](https://shields.io)
-![C](https://shields.io)
+![HTML5](https://badgen.net)
+![SQL](https://badgen.net)
+![C](https://badgen.net)
 
 <br>
 
