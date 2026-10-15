@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá, eu sou o Fábio Tojeira 😎
 
-<!--
-**Fabio-Tojeira-07/Fabio-Tojeira-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub! 
 
-Here are some ideas to get you started:
+O meu percurso profissional começou no mundo do Turismo, passou pela área de CNC (Controlo Numérico Computorizado) e pela experiência como Técnico Administrativo. Cada uma destas etapas deu-me competências valiosas em organização, resolução de problemas e atenção ao detalhe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia em aprender e qualificar-me como Técnico de Desenvolvimento de Software.
+
+🚀 O que ando a fazer:
+• 🧠 A transitar de carreira e a aprender os fundamentos da programação.
+• 💻 A desenvolver os meus primeiros projetos e a explorar novas tecnologias.
+• 📈 Focado em evoluir todos os dias e em transformar lógica em código.
+
+### 🚀 Tecnologias em Aprendizagem
+
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![SQL](https://shields.io)
+![C](https://shields.io)
+
+Sinta-te à vontade para explorar os meus repositórios e acompanhar a minha evolução!
