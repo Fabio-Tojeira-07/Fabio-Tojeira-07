@@ -13,12 +13,11 @@ Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia
 
 ### 🚀 Tecnologias em Aprendizagem
 
-<div style="display: flex; gap: 15px;">
+### 🚀 Tecnologias em Aprendizagem
 
 ![HTML5](https://shields.io)
 ![SQL](https://shields.io)
 ![C](https://shields.io)
-</div>
 
 <br>
 
