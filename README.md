@@ -26,6 +26,6 @@ Sinta-se à vontade para explorar os meus repositórios e acompanhar a minha evo
 <br>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=killghara27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killghara27&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabio-Tojeira-07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Tojeira-07&layout=compact&theme=tokyonight" />
 </p>
