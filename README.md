@@ -13,7 +13,7 @@ Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia
 
 ### 🚀 Tecnologias em Aprendizagem
 
-[![HTML5](https://shields.io)](https://mozilla.org) <br>[![SQL](https://shields.io)](https://mysql.com) <br> [![C](https://shields.io)](https://microsoft.com)
+[![C](https://shields.io)](https://microsoft.com)
 
 <br>
 
@@ -24,9 +24,3 @@ Sinta-se à vontade para explorar os meus repositórios e acompanhar a minha evo
 [![As Minhas Estatísticas do GitHub](https://vercel.app)](https://github.com)
 
 <br>
-
-Sinta-se à vontade para explorar os meus repositórios e acompanhar a minha evolução!
-
-<br>
-
-![As Minhas Estatísticas do GitHub](https://vercel.app)
