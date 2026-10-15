@@ -13,9 +13,9 @@ Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia
 
 ### 🚀 Tecnologias em Aprendizagem
 
-![HTML5](https://shields.io) <br>
-![CSS3](https://shields.io) <br>
-![SQL](https://shields.io) <br>
-![C](https://shields.io)
+![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png) <br>
+![CSS3]([https://shields.io](https://w7.pngwing.com/pngs/390/794/png-transparent-css3-original-wordmark-logo-icon.png)) <br>
+![SQL]([https://shields.io](https://tse3.mm.bing.net/th/id/OIP.hhMY1oJYR1NbImy4CWA6pAHaDn?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)) <br>
+![C]([https://shields.io](https://tse2.mm.bing.net/th/id/OIP.qZMIMShj-fclHYOaH1OBFAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3))
 
 Sinta-te à vontade para explorar os meus repositórios e acompanhar a minha evolução!
