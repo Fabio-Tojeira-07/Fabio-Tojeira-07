@@ -11,13 +11,18 @@ Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia
 • 💻 A desenvolver os meus primeiros projetos e a explorar novas tecnologias. <br>
 • 📈 Focado em evoluir todos os dias e em transformar lógica em código. <br>
 
-<h3>🚀 Tecnologias em Aprendizagem</h3> <br>
-<div>
-  <img src="HTML.png" alt="HTML5" width="50" height="50" style="margin-right: 15px;" />
-  <img src="SQL.png" alt="SQL" width="50" height="50" style="margin-right: 15px;" />
-  <img src="Linguagem C" alt="C" width="50" height="50" />
+### 🚀 Tecnologias em Aprendizagem
+
+<div style="display: flex; gap: 15px;">
+  <img src="https://jsdelivr.net" alt="HTML5" width="50" height="50" />
+  <img src="https://jsdelivr.net" alt="SQL" width="50" height="50" />
+  <img src="https://jsdelivr.net" alt="C" width="50" height="50" />
 </div>
 
-Sinta-te à vontade para explorar os meus repositórios e acompanhar a minha evolução!
+<br>
+
+Sinta-se à vontade para explorar os meus repositórios e acompanhar a minha evolução!
+
+<br>
 
 ![As Minhas Estatísticas do GitHub](https://vercel.app)
