@@ -6,12 +6,12 @@ O meu percurso profissional começou no mundo do Turismo, passou pela área de C
 
 Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia em aprender e qualificar-me como Técnico de Desenvolvimento de Software.
 
-🚀 O que ando a fazer:
-• 🧠 A transitar de carreira e a aprender os fundamentos da programação.
-• 💻 A desenvolver os meus primeiros projetos e a explorar novas tecnologias.
-• 📈 Focado em evoluir todos os dias e em transformar lógica em código.
+🚀 O que ando a fazer: <br>
+• 🧠 A transitar de carreira e a aprender os fundamentos da programação.~<br>
+• 💻 A desenvolver os meus primeiros projetos e a explorar novas tecnologias. <br>
+• 📈 Focado em evoluir todos os dias e em transformar lógica em código. <br>
 
-<h3>🚀 Tecnologias em Aprendizagem</h3>
+<h3>🚀 Tecnologias em Aprendizagem</h3> <br>
 <div>
   <img src="https://jsdelivr.net" alt="HTML5" width="50" height="50" style="margin-right: 15px;" />
   <img src="https://jsdelivr.net" alt="CSS3" width="50" height="50" style="margin-right: 15px;" />
