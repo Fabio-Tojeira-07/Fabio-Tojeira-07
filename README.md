@@ -13,7 +13,7 @@ Atualmente, decidi abraçar um novo desafio e estou a focar toda a minha energia
 
 ### 🚀 Tecnologias em Aprendizagem
 
-[![C](https://shields.io)](https://microsoft.com)
+<img src="https://githubusercontent.com" alt="C" width="45" height="45" /> <img src="https://githubusercontent.com" alt="HTML5" width="45" height="45" /> <img src="https://githubusercontent.com" alt="CSS3" width="45" height="45" /> <img src="https://githubusercontent.com" alt="SQL" width="45" height="45" /> <img src="https://githubusercontent.com" alt="Git" width="45" height="45" />
 
 <br>
 
